@@ -1,11 +1,15 @@
-#include<stdio.h>
-/*
- * main - print a line
- *
+#include <stdio.h>
+
+
+/**
+ * main - print a line "Programming is like building a multilingual puzzle."
  * Return: 0
  */
+
 int main(void)
+
 {
 	puts("\"Programming is like building a multilingual puzzle");
+	
 	return (0);
 }
